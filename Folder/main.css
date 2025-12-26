@@ -3,4 +3,9 @@ body {
     font-family: sans-serif;
 } h1 {
     font-size: large;
+} a {
+    text-decoration: none;
+    color: black;
+} .current{
+    color: grey;
 }
